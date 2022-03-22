@@ -1,4 +1,4 @@
-# U.S. cenust tract data
+# U.S. census tract data
 
 This directory contains a zipfile of U.S. census tract shapefiles with the 2010 boundaries. This file is used to generate the data we're using for the outliers project. We'll look to update this file in the future if needed.
 
