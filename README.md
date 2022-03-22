@@ -28,7 +28,13 @@ npm install
 
 ## quickstart
 
-You can generate the test data from this project by running:
+You'll first need to pull the reference shapefile data via `git lfs`:
+
+```bash
+git lfs pull
+```
+
+Then, you can generate the test data from this project by running:
 
 ```bash
 pipenv run generate
