@@ -14,8 +14,8 @@
 
 ```bash
 # install git-lfs
-brew install git-fls
-git fls install
+brew install git-lfs
+git lfs install
 # install geo build deps
 brew install gdal proj spatialindex
 # install pipenv
