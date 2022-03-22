@@ -1,0 +1,22 @@
+{
+  "name": "outlier",
+  "version": "1.0.0",
+  "description": "## installation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-pudding/outlier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-pudding/outlier/issues"
+  },
+  "homepage": "https://github.com/the-pudding/outlier#readme",
+  "dependencies": {
+    "mapshaper": "^0.5.98"
+  }
+}

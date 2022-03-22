@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[scripts]
+generate = "pipenv run papermill --progress-bar --cwd notebooks notebooks/opportunity-insights-etl.ipynb -"
+
+[packages]
+pandas = "*"
+rtree = "*"
+pyproj = "*"
+geopandas = "*"
+jupyter = "*"
+requests = "*"
+altair = "*"
+matplotlib = "*"
+papermill = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
