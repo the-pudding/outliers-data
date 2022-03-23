@@ -16,6 +16,7 @@ requests = "*"
 altair = "*"
 matplotlib = "*"
 papermill = "*"
+jupyterlab = "*"
 
 [dev-packages]
 
