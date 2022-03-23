@@ -51,7 +51,7 @@ You can also start the jupyter notebook to read how the generation script works:
 Start notebook
 
 ```bash
-pipenv run jupyter notebook
+pipenv run jupyter lab  # or `notebook`
 ```
 
 ## output files
