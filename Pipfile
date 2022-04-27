@@ -17,6 +17,7 @@ altair = "*"
 matplotlib = "*"
 papermill = "*"
 jupyterlab = "*"
+us = "*"
 
 [dev-packages]
 
